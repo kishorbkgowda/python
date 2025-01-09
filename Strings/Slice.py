@@ -1,0 +1,9 @@
+a="Harry"
+print(a[0:1])
+print(a[0:4])
+print(a[-4:-1])
+print(a[1])
+print(a[1:])
+print(a[:3])
+print(len(a))
+print(a[0:4:2])
